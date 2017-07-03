@@ -1,9 +1,8 @@
-# LibreTaxi, open source alternative for Uber/Lyft
+# Open source alternative for Uber/Lyft
 
 LibreTaxi makes taxis affordable again by completely removing all layers in between. Passengers pay with cash and get connected with drivers directly, where LibreTaxi is a thin layer allowing to negotiate the price before order is confirmed. No registration/approval is required. Less regulations.
 
-* Available at [@libretaxi_bot](https://telegram.me/libretaxi_bot)
-* Also see [LibreTaxi FAQ](doc/FAQ.md)
+* Available at [AppWorkLabs](http://www.appworklabs.com)
 
 ## Implementation details
 
@@ -56,3 +55,5 @@ Client (Telegram) support: iOS, Android, macOS desktop client, web (can also wor
 ## Linux tweaks
 
 This package is using unicode emojis. [Click here](https://github.com/eosrei/emojione-color-font#install-on-ubuntu-linux) to install them. Unfortunately, on Linux they are in one color in Terminal and in Atom editor. Update this doc if you were able to make them in color in Terminal and/or Atom editor.
+
+[Uber clone script AppWorkLabs](http://www.appworklabs.com)
